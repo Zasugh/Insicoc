@@ -10,7 +10,7 @@ Keras-Preprocessing==1.1.2
 Markdown==3.2.2
 numpy==1.18.4
 opt-einsum==3.2.1
-Pillow==7.1.2
+Pillow==9.0.0
 protobuf==3.12.1
 scipy==1.4.1
 six==1.15.0
